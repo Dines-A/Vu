@@ -1,0 +1,119 @@
+body{
+    
+    background-color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    text-transform: capitalize;
+}
+li a{
+    text-decoration: none;
+}
+
+.home{
+  
+    padding: 30px;
+    margin: 0px 5px;
+    border-bottom: 4px solid #C71585;   
+}
+.home a{
+    color: #C71585;
+}
+.home:hover{
+    border-bottom: 4px solid   whitesmoke;
+    
+}
+.home a:hover{
+    color:    whitesmoke;
+}
+.wid{
+    border-bottom: 4px solid #300bff;
+    padding: 30px;
+    margin: 0px 5px;   
+}
+.wid a{
+    color: #300bff;
+}
+.wid:hover{
+    border-bottom: 4px solid   rgb(233, 229, 6);
+    
+}
+.wid a:hover{
+    color: rgb(233, 229, 6);
+}
+.hwm{
+    border-bottom: 4px solid  #FFA500;
+    padding: 30px;
+    margin: 0px 5px; 
+}
+.hwm a{
+    color:  #FFA500;
+}
+.hwm:hover{
+    border-bottom: 4px solid   #FF4500;
+    
+}
+.hwm a:hover{
+    color:   #FF4500;
+}
+.about-us{
+    border-bottom: 4px solid rgba(13, 228, 24, 0.911);
+    padding: 30px;
+    margin: 0px 5px;
+    
+}
+
+.about-us a{
+    color: rgba(13, 228, 24, 0.911);
+}
+.about-us:hover{
+    border-bottom: 4px solid  #FF6347;
+    
+}
+.about-us a:hover{
+    color:  #FF6347;
+} 
+
+
+
+.gallery{
+    border-bottom: 4px solid #ff5500;
+    padding: 30px;
+    margin: 0px 5px;
+    
+} 
+.gallery a{
+    color: #ff5500;
+}
+.gallery:hover{
+    border-bottom: 4px solid #DC143C;
+    
+}
+.gallery a:hover{
+    color:  #DC143C;
+}
+
+.team{
+    border-bottom: 4px solid red;
+    padding: 30px;
+    margin: 0px 5px;
+    
+}
+.team a{
+ color: red;
+}
+.team:hover{
+   
+    border-bottom: 4px solid green;
+    
+}
+.team a:hover{
+   
+    color: green;
+} 
+#heading{
+    /* width: 100%; */
+    /* padding: 0px 15px; */
+    text-align: center;
+    background-color: #ff4800;      
+    border-radius: 20px;
+    }
